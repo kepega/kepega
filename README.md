@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Peter! 👋
 
-<!--
-**kepega/kepega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an aspiring **Full-Stack Developer** passionate about building scalable, clean, and user-friendly web applications. I'm currently working on my first projects and documenting my journey here on GitHub.
 
-Here are some ideas to get you started:
+### 🚀 What I'm working on
+- 🛠️ Building robust web apps with **React** and **.NET**.
+- 📚 Deep diving into **TypeScript** and **RESTful Architecture**.
+- ✍️ Focusing on clean code and efficient database management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+
+**Frontend:**
+- HTML5, CSS3, JavaScript (ES6+)
+- **React**, TypeScript
+- **Tailwind CSS**, Bootstrap
+
+**Backend & Database:**
+- **C# / .NET Framework**
+- RESTful APIs
+- MySQL, MSSQL
+
+---
+*“The best way to predict the future is to create it.”*
