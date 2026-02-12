@@ -8,16 +8,19 @@ I am an aspiring **Full-Stack Developer** passionate about building scalable, cl
 - ✍️ Focusing on clean code and efficient database management.
 
 ### 🛠️ Tech Stack & Tools
-
 **Frontend:**
-- HTML5, CSS3, JavaScript (ES6+)
-- **React**, TypeScript
-- **Tailwind CSS**, Bootstrap
+- HTML5, CSS3, JavaScript (ES6+), **TypeScript**
+- **React**, **Tailwind CSS**, Bootstrap
 
 **Backend & Database:**
 - **C# / .NET Framework**
-- RESTful APIs
-- MySQL, MSSQL
+- RESTful APIs, MySQL, MSSQL
+
+**Tools:**
+- Git, GitHub, VS Code, Visual Studio, Postman
+
+### 📫 How to reach me
+- 💼 [LinkedIn](https://www.linkedin.com/in/kepega/)
 
 ---
 *“The best way to predict the future is to create it.”*
